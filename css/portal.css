@@ -48,3 +48,16 @@ body {
     object-fit: cover;
     border: 3px solid var(--color-300);
 }
+
+#kontakt i {
+    margin-right: 10px;
+    color: var(--color-100);
+}
+
+#kontakt .form-label {
+    color: white;
+}
+
+#kontakt .form-control::placeholder {
+    color: #ccc;
+}
