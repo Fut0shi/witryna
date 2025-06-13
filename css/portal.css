@@ -25,3 +25,17 @@ body {
 .hero p{
     color: var(--color-100);
 }
+
+.category-item {
+    padding: 20px;
+    background-color: var(--color-100);
+    border-radius: 10px;
+    height: 100%;
+    max-width: 350px;
+    margin: 0 auto;
+}
+
+.category-item i {
+    font-size: 2.5rem;
+    color: var(--color-400);
+}
