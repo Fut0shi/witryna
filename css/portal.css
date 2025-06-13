@@ -61,3 +61,18 @@ body {
 #kontakt .form-control::placeholder {
     color: #ccc;
 }
+
+footer {
+    font-size: 0.95rem;
+}
+
+#mapa {
+  margin: 0;
+  padding: 0;
+}
+
+#mapa iframe {
+  display: block;
+  margin: 0;
+  padding: 0;
+}
