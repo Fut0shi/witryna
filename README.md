@@ -1,4 +1,4 @@
 # Praca w zespole
 ## Witryna ćwiczeniowa
-** Grupa nr X**
+**Grupa nr XYZ** 
 - Patryk Ambroziak - murarzy tynkarz kierownik akrobata
